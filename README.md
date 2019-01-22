@@ -8,6 +8,7 @@ For python2.7:
      
      The files in the master branch.
      weights
+     templates 
      static
 
 For python3.6:
