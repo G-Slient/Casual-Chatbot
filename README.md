@@ -51,7 +51,7 @@ For python3.6:
  Open 127.0.0.1:5000 url in your browser, your bot is ready for interaction.
  
 
-  
+  <img src="templates/Screenshot from 2019-01-12 16-32-42.png" height="400" alt="Screenshot"/>
 
 
 
