@@ -1,6 +1,6 @@
 # casual-chatbot
 
-This is a chatbot application which is trained on twitter general conversation. 
+This is a chatbot application which is trained on movie dialogue conversation. 
 
 The application runs on python3 and python2 versions with some minor chanages.
 
